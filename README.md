@@ -102,3 +102,5 @@ Make sure the `ga_edgelist.csv` file is in the same folder if you want to run th
 - Export visualizations to image/PDF  
 - Apply community detection algorithms (Louvain, etc.)  
 - Use dynamic/temporal networks
+
+---
